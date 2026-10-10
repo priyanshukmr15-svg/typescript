@@ -36,4 +36,15 @@ const t1:faculty = {
     age:18
 }
 
+const t2: faculty = {
+  role:"teacher",
+  name:"ahem",
+  age:18
+}
+
+const t3: faculty = {
+  role:"teacher",
+  name:"Gaudge",
+  age:18
+} 
 console.log(printfunc(t1))

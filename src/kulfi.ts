@@ -1,0 +1,1 @@
+const kulfiflavour:string = "keasri"
